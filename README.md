@@ -13,7 +13,7 @@
 
 ---
 
-🧬 Mapping chromosomes in 3D  ·  🚀 Launching ML into space biology  ·  🎹 Making beats after midnight
+🧬 Decoding cancer genomes · 🚀 From space biology to clinical ML · 🎹 Making beats after midnight
 
 ---
 
